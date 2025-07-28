@@ -9,6 +9,12 @@ const projectData = [
     link: "https://github.com/Aadesh-Phadake/ffsd-project/"
   },
   {
+    title: "Syncode",
+    description: "A collaborative code editor with real-time sync using React and Socket.io.",
+    tech:["React"],
+    link: "https://github.com/Aadesh-Phadake/realtime-editor"
+  },
+  {
     title: "Green Gauge",
     description: "An ecological footprint calculator built with MERN stack.",
     tech: ["EJS", "Node", "MongoDB"],
@@ -19,12 +25,6 @@ const projectData = [
     description: "A clean and responsive To-Do App with CRUD features.",
     tech: ["React"],
     link: "https://github.com/Aadesh-Phadake/Simple-React-To-Do-App"
-  },
-  {
-    title: "Syncode",
-    description: "A collaborative code editor with real-time sync using React and Socket.io.",
-    tech:["React"],
-    link: "https://github.com/Aadesh-Phadake/realtime-editor"
   }
 ];
 const allTechs = ["All", "React", "Node", "MongoDB", "EJS"];
