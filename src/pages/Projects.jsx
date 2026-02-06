@@ -4,9 +4,9 @@ import './Projects.css';
 const projectData = [
     {
     title: "Travelnest",
-    description: "A travel planner and hotel search app using Node + EJS.",
-    tech: ["Node", "EJS", "MongoDB"],
-    link: "https://github.com/Aadesh-Phadake/ffsd-project/"
+    description: "A travel planner and hotel search app using Node + React.",
+    tech: ["Node", "React", "MongoDB"],
+    link: "https://github.com/Aadesh-Phadake/travelnest-react"
   },
   {
     title: "Syncode",
@@ -27,7 +27,7 @@ const projectData = [
     link: "https://github.com/Aadesh-Phadake/Simple-React-To-Do-App"
   }
 ];
-const allTechs = ["All", "React", "Node", "MongoDB", "EJS"];
+const allTechs = ["All", "React", "Node", "MongoDB"];
 
 const Projects = () => {
   const [selectedTech, setSelectedTech] = useState("All");

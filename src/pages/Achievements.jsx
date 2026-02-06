@@ -21,7 +21,7 @@ const Achievements = () => {
     },
     {
       title: "Problem Solving",
-      desc: "Solved 200+ Data Structures & Algorithms problems on LeetCode and other platforms.",
+      desc: "Solved 300+ Data Structures & Algorithms problems on LeetCode and other platforms.",
       tags: ["DSA", "Consistency", "Logic"]
     }
   ];

@@ -13,13 +13,13 @@ const Extracurricular = () => {
       role: "NSS Design Core Member",
       org: "National Service Scheme (NSS)",
       description: "Designed creatives, posters, and event materials as part of the NSS core team.",
-      year: "2024 - Present",
+      year: "2024 - 2025",
     },
     {
       role: "Mess Secretary",
       org: "IIIT Sri City",
       description: "Coordinated between students and administration to improve mess facilities.",
-      year: "2025",
+      year: "2025 - 2026",
     },
     {
       role: "Fitness Enthusiast",
